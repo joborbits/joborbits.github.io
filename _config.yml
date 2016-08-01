@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: JobOrbit项目进程
+email: joborbits@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  JobOrbit(工作轨迹)是一款帮助达成求职目标的Android app，能提醒和反馈用户目标的达成情况，帮助用户发现和记录自身的成长轨迹，以及达到沉浸式学习的效果。帮助用户达到期望工作所需的技能水平。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://joborbits.github.io" # the base hostname & protocol for your site
+twitter_username: hxclone
+github_username:  joborbits
+
+# Build settings
+markdown: kramdown
