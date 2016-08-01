@@ -12,4 +12,7 @@ Firebase auth用于用户登录验证时，需要提供签名key的sha1。
 
 目前不知道把debug.keystore放到项目中是否安全。
 
+下载源码说明:
+https://docs.google.com/document/d/1RABC8NaBwPHCKUnoxYupXJXutGs1KZNIqk_-q0nRgqk/edit
+
 XH
