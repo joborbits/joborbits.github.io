@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “今日修改：debug.keystore集成到了项目中，使得在所有环境下都能访问Firebase auth"
+title:  今日修改：debug.keystore集成到了项目中，使得在所有环境下都能访问Firebase auth
 date:   2016-08-01 21:50:00 +0800
 categories: app update
 ---
